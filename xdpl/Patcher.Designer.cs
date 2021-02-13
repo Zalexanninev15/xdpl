@@ -318,7 +318,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(211, 54);
             this.label7.TabIndex = 6;
-            this.label7.Text = "Authors:\r\nxdPatcher - SKJyannick (2020)\r\nxdpl - Zalexanninev15 (2021)";
+            this.label7.Text = "Authors:\r\nxdpl - Zalexanninev15 (2021)\r\nxdPatcher - SKJyannick (2020)";
             // 
             // pictureBox2
             // 
