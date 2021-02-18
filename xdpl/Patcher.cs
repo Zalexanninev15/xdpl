@@ -7,10 +7,7 @@ namespace xdpl
 {
     public partial class Patcher : Form
     {
-        public Patcher()
-        {
-            InitializeComponent();
-        }
+        public Patcher() {  InitializeComponent(); }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -68,7 +65,7 @@ namespace xdpl
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if (textBox4.Text != "" && textBox5.Text != "" && textBox6.Text != "")
+            if (textBox1.Text != "" && textBox2.Text != "" && textBox3.Text != "")
             {
                 Process proc = new Process();
                 proc.StartInfo.FileName = "xdelta3.exe";
@@ -120,9 +117,6 @@ namespace xdpl
                 MessageBox.Show("You need to fill in all the fields!", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
         }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-            Process.Start("https://github.com/Zalexanninev15/xdpl");
-        }
+        private void pictureBox2_Click(object sender, EventArgs e) { Process.Start("https://github.com/Zalexanninev15/xdpl"); }
     }
 }
