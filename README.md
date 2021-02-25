@@ -6,3 +6,6 @@
 
 ## Description
 GUI for xdelta patcher
+
+## Build
+Compile using Visual Studio 2019
