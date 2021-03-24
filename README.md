@@ -7,5 +7,10 @@
 ## Description
 GUI for xdelta patcher
 
+## Features
+
+* Quick interface and process for creating and applying patches
+* Smart checks that won't let you make a mistake
+
 ## Build
 Compile using Visual Studio 2019
