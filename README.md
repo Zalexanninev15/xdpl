@@ -2,7 +2,7 @@
 
 ![](https://github.com/Zalexanninev15/xdpl/blob/master/logo.png?raw=true)
 
-[![](https://img.shields.io/badge/platform-Windows-blue.svg)](https://github.com/Zalexanninev15/xdpl)
+[![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/xdpl)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/xdpl)](https://github.com/Zalexanninev15/xdpl/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/xdpl/total.svg)](https://github.com/Zalexanninev15/xdpl/releases)
 [![](https://img.shields.io/badge/license-GPLv3-green.svg)](LICENSE)
