@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/donate-YooMoney-8B3FFD.svg)](https://yoomoney.ru/to/410015106319420)
 
 ## Screenshot
-![](https://i.imgur.com/SBJ7paf.png)
+![](https://github.com/Zalexanninev15/xdpl/blob/master/screenshot.png?raw=true)
 
 ## Description
 GUI for xdelta patcher
