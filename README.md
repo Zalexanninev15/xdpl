@@ -18,7 +18,7 @@
 GUI for xdelta patcher
 
 ## System requirements
-* **OS:** Windows 7/8/8.1/10
+* **OS:** Windows 7 or higher
 * **Additional:** .NET Framework 4.8
 
 ## Features
