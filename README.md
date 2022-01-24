@@ -28,4 +28,4 @@ GUI for xdelta patcher
 * Smart checks that won't let you make a mistake
 
 ## Build
-Compile using [Visual Studio 2019 or newer](https://visualstudio.microsoft.com/vs)
+Compile using [Visual Studio](https://visualstudio.microsoft.com/vs)
