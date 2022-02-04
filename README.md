@@ -9,6 +9,7 @@
 [![](https://img.shields.io/github/downloads/Zalexanninev15/xdpl/total.svg)](https://github.com/Zalexanninev15/xdpl/releases)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/xdpl)](https://github.com/Zalexanninev15/xdpl/commits/master)
 [![](https://img.shields.io/github/stars/Zalexanninev15/xdpl.svg)](https://github.com/Zalexanninev15/xdpl/stargazers)
+[![](https://img.shields.io/github/forks/Zalexanninev15/xdpl.svg)](https://github.com/Zalexanninev15/xdpl/network/members)
 [![](https://img.shields.io/badge/license-GPLv3-ligthgreen.svg)](LICENSE)
 [![](https://img.shields.io/badge/donate-Buy_Me_a_Coffee-F94400.svg)](https://zalexanninev15.jimdofree.com/buy-me-a-coffee)
 
