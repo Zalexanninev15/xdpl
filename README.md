@@ -18,14 +18,14 @@
 ## Description
 GUI for xdelta patcher
 
-## System requirements
-* **OS:** Windows 7 or higher
-* **Additional:** .NET Framework 4.8
-
 ## Features
 
 * Quick interface and process for creating and applying patches
 * Smart checks that won't let you make a mistake
+
+## System requirements
+* **OS:** Windows 7 or higher
+* **Additional:** .NET Framework 4.8
 
 ## Build
 Compile using [Visual Studio](https://visualstudio.microsoft.com/vs)
